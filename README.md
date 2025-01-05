@@ -28,17 +28,10 @@ I am a passionate developer with a keen interest in software engineering and web
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzhicheng22&count_private=true&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhicheng22&layout=compact&theme=radical)
 
-## 📈 GitHub Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yuzhicheng22&theme=rogue)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/yourtwitterhandle)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:your.email@example.com)
-
-[![My GitHub ](https://github-readme-stats.vercel.app/api?username=yuzhicheng22)]()
-
 
 

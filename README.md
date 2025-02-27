@@ -14,7 +14,7 @@ I am a passionate software developer with a strong focus on game development, we
 - 🌱 **Currently learning**: iOS development, Swift, and SwiftUI
 - 💼 **Working on**: Game development (Cocos Creator, Unity), exploring new technologies in game engines
 - 🧠 **Interests**: Software engineering, front-end technologies, game design, and user experience
-- 📫 **How to reach me**: [yuzcyuzc22@163.com](mailto:yuzcyuzc22@163.com)
+- 📫 **How to reach me**: [yuzhicheng22@gmail.com](mailto:yuzhicheng22@gmail.com)
 
 ---
 

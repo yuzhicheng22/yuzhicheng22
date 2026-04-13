@@ -40,8 +40,8 @@ I am a software engineer with experience in game development, web technologies, 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzhicheng22&count_private=true&show_icons=true&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhicheng22&layout=compact&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yuzhicheng22&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yuzhicheng22&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
